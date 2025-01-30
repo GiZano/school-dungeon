@@ -9,5 +9,5 @@ In this package you can find all the java source code
 ## Out Package
 
 In this package you can find the jar you can use to launc the game in the terminal and have the full experience.
-> To launch the game on terminal:
+> To launch the game on terminal: <\br>
 <code>java -jar school-dungeon.jar<\code>
