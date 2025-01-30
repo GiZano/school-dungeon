@@ -12,4 +12,4 @@ In this package you can find the jar you can use to launc the game in the termin
 
 > To launch the game on terminal:
 
-<code>java -jar school-dungeon.jar<\code>
+<code>java -jar school-dungeon.jar</code>
