@@ -27,19 +27,21 @@ public class Main {
              -----------------------------------------------------------------------------------
            
             """;
+
     static String listaComandi = """
             W -> Vai su';
             A -> Vai a sinistra;
             S -> Vai giu';
             D -> Vai a destra;
-            O -> Apri cassa;
             I -> Mostra arma;
             STAT -> Mostra statistiche
             CMD -> Lista comandi;
-            ATT -> attacca mostro;
-            ESC -> esci dal gioco;
+            ATT -> Attacco (durante combattimento)
+            AB -> Usa abilita' speciale (durante combattimento)
             INFO -> stampa informazioni riguardo alle caselle;
+            ESC -> esci dal gioco;
             """;
+
     static String listaInfo = """
             \" \" -> casella libera
             \"X\" -> muro
