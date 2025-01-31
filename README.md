@@ -8,7 +8,7 @@ In this package you can find all the java source code
 
 ## Out Package
 
-In this package you can find the jar you can use to launc the game in the terminal and have the full experience.
+In this package you can find the jar you can use to launch the game in the terminal and have the full experience.
 
 > To launch the game on terminal:
 
